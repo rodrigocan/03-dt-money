@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 60,
       "createdAt": "2023-01-11T13:05:01.871Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso de Francês",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 520,
+      "createdAt": "2023-01-10T13:05:01.871Z"
     }
   ]
 }
